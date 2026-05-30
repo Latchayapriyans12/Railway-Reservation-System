@@ -42,7 +42,7 @@ Specifying the context and requirements of a system
 
 ``` USE CASE DIAGRAM```
 
-<img width="906" height="562" alt="image" src="https://github.com/user-attachments/assets/cad5e715-5d30-4793-91e6-a6b08bb319a3" />
+<img width="651" height="506" alt="image" src="https://github.com/user-attachments/assets/009a4422-750b-4718-8b4e-e856de019c9d" />
 
 
 
@@ -65,7 +65,7 @@ Create detailed charts that…
 ```CLASS DIAGRAM```
 
 
-<img width="905" height="555" alt="image" src="https://github.com/user-attachments/assets/3f15b7c2-5ec2-46fb-91fe-cd82e5900def" />
+<img width="646" height="495" alt="image" src="https://github.com/user-attachments/assets/7f7dbfea-a5b0-487b-939d-e618878d6318" />
 
 
 
@@ -78,7 +78,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 ```COMMUNICATION DIAGRAM```
 
-<img width="870" height="652" alt="image" src="https://github.com/user-attachments/assets/54e80791-0131-4c70-967f-3787d0bf0953" />
+<img width="615" height="490" alt="image" src="https://github.com/user-attachments/assets/6477e01b-a0ee-4439-af80-6ec67499a1fc" />
 
 
 
@@ -93,7 +93,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 ```PACKAGE DIAGRAM```
 
-<img width="846" height="507" alt="image" src="https://github.com/user-attachments/assets/6757e48f-bc98-4f26-a0b9-9ce8f0e5c20a" />
+<img width="557" height="376" alt="image" src="https://github.com/user-attachments/assets/626307de-8c11-406d-9bd8-87860229ebbc" />
 
 
 
@@ -112,7 +112,7 @@ Describe the steps performed in a UML use case.
 
 ```ACTIVITY DIAGRAM```
 
-<img width="783" height="665" alt="image" src="https://github.com/user-attachments/assets/a29a3991-f686-4d53-99e3-e3648f8a0e06" />
+<img width="525" height="646" alt="image" src="https://github.com/user-attachments/assets/ebb7481c-4e9d-4725-93d9-0e78075915ef" />
 
 
 
@@ -125,7 +125,7 @@ a new system or to document an existing process. Sequence diagrams are sometimes
 ```SEQUENCE DIAGRAM```
 
 
-<img width="775" height="668" alt="image" src="https://github.com/user-attachments/assets/560852fe-03ad-4158-8ee8-3144c87b030b" />
+<img width="644" height="479" alt="image" src="https://github.com/user-attachments/assets/f7bc1948-498f-48d2-aa82-d7aa4e8c1566" />
 
 
 
